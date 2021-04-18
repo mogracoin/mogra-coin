@@ -1,2 +1,2 @@
 # mogra-coin
-this is mogra coin for publice purpose.
+This is mogra coin for public purpose.
